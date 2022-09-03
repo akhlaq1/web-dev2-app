@@ -1,5 +1,4 @@
 import React, {useState} from "react";
-import './app.css'
 import Book from './components/Book'
 
 function App(){
