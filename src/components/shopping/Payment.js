@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import React, {useEffect, useState} from 'react'
 
 import {
@@ -36,6 +37,13 @@ function Payment() {
     loading ? (<ClipLoader loading={loading} size={150} />) : (<h1>Hello World</h1>)
    }
     </>
+=======
+import React from 'react'
+
+function Payment() {
+  return (
+    <div>Payment</div>
+>>>>>>> c191cf8b7c8c27d75ccd11793d877989a0207006
   )
 }
 
